@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/algorithm_visualizer.dir/src/main.cpp.o CMakeFiles/algorithm_visualizer.dir/src/glad.c.o -o algorithm_visualizer  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libglfw.3.4.dylib

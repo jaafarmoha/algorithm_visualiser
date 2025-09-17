@@ -1,0 +1,3 @@
+/Users/jaafarmohammed/Desktop/Personal Projects/algorithm_visualiser/build/CMakeFiles/algorithm_visualizer.dir
+/Users/jaafarmohammed/Desktop/Personal Projects/algorithm_visualiser/build/CMakeFiles/edit_cache.dir
+/Users/jaafarmohammed/Desktop/Personal Projects/algorithm_visualiser/build/CMakeFiles/rebuild_cache.dir
