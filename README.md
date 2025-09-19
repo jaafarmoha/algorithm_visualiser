@@ -18,6 +18,6 @@ A C++ project that uses OpenGL & CMake to show how algorithms work under the hoo
     cd build
     ./algorithm visualiser
     ```
-This is just a small project and I'm aware the commands are for Linux but I cba to learn the Windows equivalent 🥱
+I'll add more algorithms later on
 
 
