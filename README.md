@@ -16,7 +16,7 @@ A C++ project that uses OpenGL & CMake to show how algorithms work under the hoo
     ```
     cd algorithm_visualiser
     cd build
-    ./algorithm visualiser
+    ./algorithm_visualizer
     ```
 
 I'll add more algorithms one by one but probably won't write the Windows commands. This is just to get familiar with OpenGL.
